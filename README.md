@@ -31,7 +31,11 @@ Data Manipulation: Pandas
 Visualization: Matplotlib, Seaborn
 Computational Operations: NumPy
 Model Training and Optimization: Scikit Learn
+
+
 **Deliverables**
+
+
 A detailed report with data analysis, feature engineering, and model performance.
 Predictive models for bike demand forecasting.
 Visualizations of data and model results.
