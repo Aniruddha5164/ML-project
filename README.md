@@ -1,11 +1,19 @@
 **Seoul Bike Sharing Demand Prediction**
+
+
 **Business Context**
+
+
 In many urban cities, rental bikes have been introduced to enhance mobility comfort. Ensuring that rental bikes are available and accessible to the public at the right time is crucial for reducing waiting times and providing a stable supply. Predicting the bike count required at each hour is essential for maintaining this stable supply and optimizing the availability of rental bikes.
 
 **Data Description**
+
+
 The dataset used in this project includes historical data related to bike sharing demand. It encompasses features such as the number of bikes rented at different times, weather conditions, and other relevant factors that influence bike demand.
 
 **Main Libraries to be Used**
+
+
 Pandas: For data manipulation and aggregation.
 Matplotlib and Seaborn: For visualization and analysis of data behavior with respect to the target variable.
 NumPy: For computationally efficient operations.
